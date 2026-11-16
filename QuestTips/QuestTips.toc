@@ -1,0 +1,12 @@
+## Interface: 16001
+## Title: QuestTips
+## Notes: Quest hints, remaining objectives, and directions from your quest log.
+## Author: QuestTips contributors
+## Version: 0.1.0
+## SavedVariables: QuestTipsDB
+
+Hints.lua
+Data.lua
+Guide.lua
+UI.lua
+Core.lua

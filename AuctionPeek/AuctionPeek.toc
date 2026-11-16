@@ -1,0 +1,13 @@
+## Interface: 16001
+## Title: AuctionPeek
+## Notes: Crafting uses, unit prices and stack values in item tooltips.
+## Author: AuctionPeek contributors
+## Version: 0.3.0
+## SavedVariables: AuctionPeekDB
+
+Model.lua
+ReagentData.lua
+Scanner.lua
+Tooltip.lua
+UI.lua
+Core.lua

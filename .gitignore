@@ -1,0 +1,8 @@
+.tools/
+dist/
+__pycache__/
+.venv/
+.DS_Store
+Thumbs.db
+desktop.ini
+/downloads/*.tmp
